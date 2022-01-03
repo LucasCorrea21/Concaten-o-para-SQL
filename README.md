@@ -24,3 +24,5 @@ Ele irá retornar:
 '4123123123',
 
 Após isto insira no seu SQL! :D
+
+# Script Integração com o SMS
